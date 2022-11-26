@@ -1,0 +1,13 @@
+.app.dark {
+  background-color: #222;
+  color: rgb(156, 156, 156);
+  .chartGrid {
+    stroke: rgb(228, 228, 228, 0.219);
+  }
+  .table {
+    background-color: #222;
+    .tableCell {
+      color: white;
+    }
+  }
+}
